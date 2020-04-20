@@ -1,6 +1,7 @@
 # Desafio
 ```sh
 yarn
+yarn typeorm migration:run
 yarn test --noStackTrace
 ```
 ## :rocket: Sobre o desafio
